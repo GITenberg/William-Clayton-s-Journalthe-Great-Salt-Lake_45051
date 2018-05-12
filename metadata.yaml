@@ -1,0 +1,39 @@
+_repo: William-Clayton-s-Journalthe-Great-Salt-Lake_45051
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clayton, William
+    alias: Clayton, W. (William)
+    birthdate: 1814
+    deathdate: 1879
+    gutenberg_agent_id: '43049'
+    url: http://www.gutenberg.org/2009/agents/43049
+  editor:
+    agent_name: Clayton, Lawrence
+    gutenberg_agent_id: '43050'
+    url: http://www.gutenberg.org/2009/agents/43050
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2014-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45051'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clayton, William, 1814-1879 -- Diaries'
+- !lcsh 'Frontier and pioneer life -- Utah'
+- !lcc 'F786'
+- !lcsh 'Utah -- Description and travel'
+- !lcsh 'Mormon pioneers -- Utah -- Diaries'
+- !lcsh 'Clayton, William, 1814-1879'
+- !lcsh 'Mormon Church'
+title: "William Clayton's Journal\r\nA Daily Record of the Journey of the Original\
+  \ Company of \"Mormon\" Pioneers from Nauvoo, Illinois, to the Valley of the Great\
+  \ Salt Lake"
+url: http://www.gutenberg.org/ebooks/45051
