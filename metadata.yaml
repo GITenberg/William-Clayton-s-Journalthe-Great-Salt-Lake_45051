@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '43050'
     url: http://www.gutenberg.org/2009/agents/43050
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45051#William-Clayton-s-Journalthe-Great-Salt-Lake
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2014-03-02'
 gutenberg_type: Text
